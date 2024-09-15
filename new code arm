@@ -1,0 +1,27 @@
+power.live .int,test
+    power.log,.loop
+    null.int.live.file.path.file
+    .test./power.live.int
+    file.path.name.power
+from flask import Flask
+app = Flask(__name__)
+@app.router("/")
+def hello_world():
+    return "Hello, World!"
+if __name__ == "__main__":
+    app.run(power).log.int
+    import.power.int
+    import.log.pi.live server
+from flask import Flask
+app = Flask(__name__)
+@app.route("/")
+def hello_world():
+    return "Hello, World!"
+if __name__ == "__main__":
+    app.run(arm)log
+    import.power.int
+    import.log.pi.live server
+    .log
+    pip.name.file.path.name
+    pip.file..power
+    
